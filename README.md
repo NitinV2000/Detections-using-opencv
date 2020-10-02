@@ -1,8 +1,8 @@
 # Opencv Projects
 
-Face Detection
-Mask Detection
-Number plate detection
-Colour Detection
-Shape Detection
-Virtual paint on screen
+Face Detection<br />
+Mask Detection<br />
+Number plate detection<br />
+Colour Detection<br />
+Shape Detection<br />
+Virtual paint on screen<br />
